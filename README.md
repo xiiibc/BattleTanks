@@ -14,3 +14,4 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
  
  ## Lecture List
  * BT01 Intro, Notes & Assets
+ * BT02 Github setup
