@@ -8,6 +8,20 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
  Enjoy yourself.
  
  Ben Tristem
+
+GDD
+
+Concepts for tank game
+
+Object. Destroy tanks and live
+Kill shot on middle body of tanks. Kills crew and or engine dead.
+Kill shot after three total shots taken.
+Movement via wasd. Turret stays stationary unless moved by mouse right click.
+Tanks is slow. Shift key can make it move fast temporarily.
+Make environment hilly in a large valley. 
+Sound effects needed:
+	Gun fire. Engine turbine. Engine diesel. Track noise. Turret movement. Hit explosion if kill shot. Ping sound if hit, just not destroyed.
+
  
  ---
  Click [here](https://www.udemy.com/unrealcourse?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
